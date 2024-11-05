@@ -1,2 +1,2 @@
 # host-website
-with github
+on github
